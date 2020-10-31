@@ -5,8 +5,8 @@ description: "Read all the news 📰 from our Rovel Bloggers!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'UA-46278016-1'
-disqus: 'rovel-blog'
+google_analytics: 'G-BQM5XBLXRN'
+disqus: 'rovel'
 mailchimp-list: 'https://rovelstars.us2.list-manage.com/subscribe/post?u=95fd1830dc5c9ba4d505fbd9a&amp;id=1ba287df95'
 include: ["_pages"]
 permalink: /:title/
@@ -53,9 +53,9 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-4704783989437312"
+adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
