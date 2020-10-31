@@ -15,7 +15,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <blogger-name>{{ site.authors[post.author[display_name]] | xml_escape }}</blogger-name>
-        <blogger-selfie>{{ site.authors[post.author[name]] | xml_escape }}</blogger-selfie>
+        <blogger-selfie>{{ site.authors[post.author[name]] }}</blogger-selfie>
         <blogger-website>{{ site.authors[post.author[web]] | xml_escape }}</blogger-website>
         <blog-image>{{ post.image | xml_escape }}</blog-image>
         <description>{{ post.content | xml_escape }}</description>
