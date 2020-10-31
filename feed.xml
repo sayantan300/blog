@@ -14,7 +14,7 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <blogger-name>{{ author.display_name | xml_escape }}</blogger-name>
+        <blogger-name>{{ site.authors[post.author] | xml_escape }}</blogger-name>
         <blogger-selfie>{{ author.avatar | xml_escape }}</blogger-selfie>
         <blogger-website>{{ author.web | xml_escape }}</blogger-website>
         <blog-image>{{ page.image | xml_escape }}</blog-image>
