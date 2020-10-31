@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'rovel-blog'
 mailchimp-list: 'https://rovelstars.us2.list-manage.com/subscribe/post?u=95fd1830dc5c9ba4d505fbd9a&amp;id=1ba287df95'
 include: ["_pages"]
 permalink: /:title/
