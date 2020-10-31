@@ -15,6 +15,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <blogger-name>{{ author.display_name }}</blogger-name>
+        <blogger-selfie>{{ author.avatar }}</blogger-selfie>
         <blog-image>{{ page.image }}</blog-image>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
