@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
+author: sayantan
+categories: [ Tutorial ]
+image: "https://mocah.org/thumbs/5394330-code-computer-screen-developer-html-coding-hack-hacking-hacker-script-website-html5-source-code-codding-monitor-code-editor-technology-communication-write-bokeh-free-pictures.jpg"
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
@@ -89,7 +89,7 @@ printf("Hello World");
 
 
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+![Rovel Blog image](https://cdn.discordapp.com/attachments/752503584083410976/772005930316726292/20201031_112035_0000.png)
 
 ## Reference lists
 
