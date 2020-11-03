@@ -7,7 +7,7 @@ tags: [Rovel, Introduction, Changelog]
 image: "https://cdn.discordapp.com/attachments/752503584083410976/772005930316726292/20201031_112035_0000.png"
 description: "Hey there! we are gonna introduce to our ROVEL BLOG!"
 featured: true
-hidden: false
+hidden: true
 rating: 5
 ---
 
